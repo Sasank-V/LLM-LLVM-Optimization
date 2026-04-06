@@ -293,9 +293,3 @@ opt --version
 - [LLVM Optimization Passes](https://llvm.org/docs/Passes/)
 - [LLVM Test Suite](https://llvm.org/docs/TestSuiteGuide/)
 - [Hugging Face Transformers](https://huggingface.co/docs/transformers/)
-
----
-
-**Authors:** VIT Compiler Design Course  
-**Date:** April 2026  
-**Status:** Active Development
